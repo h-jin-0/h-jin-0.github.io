@@ -14,8 +14,8 @@
         <updated>2021-08-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[디렉터리를 만들고 관련 사진을 첨부할 수 있습니다.]]></summary>
         <author>
-            <name>David Lee</name>
-            <uri>https://www.linkedin.com/in/civilizeddev/</uri>
+            <name>Alice</name>
+            <uri>https://github.com/h-jin-0</uri>
         </author>
     </entry>
     <entry>
@@ -25,8 +25,8 @@
         <updated>2021-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
         <author>
-            <name>Andes Noh</name>
-            <uri>https://github.com/andes-noh</uri>
+            <name>Alice</name>
+            <uri>https://github.com/h-jin-0</uri>
         </author>
     </entry>
     <entry>
@@ -36,8 +36,8 @@
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
         <author>
-            <name>Delbert Jo</name>
-            <uri>https://github.com/cosy1922</uri>
+            <name>Alice</name>
+            <uri>https://github.com/h-jin-0</uri>
         </author>
     </entry>
     <entry>
@@ -47,8 +47,8 @@
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
         <author>
-            <name>Cannon Shin</name>
-            <uri>https://github.com/newcannon</uri>
+            <name>Alice</name>
+            <uri>https://github.com/h-jin-0</uri>
         </author>
     </entry>
 </feed>
